@@ -13,7 +13,7 @@ ENDCLASS.
 
 CLASS /dmo/zcl_oleksiiagitt2 IMPLEMENTATION.
   METHOD if_oo_adt_classrun~main.
-       out->write('AGIT TEST Pull Test OBJ1').
+       out->write('AGIT TEST Pull Test OBJ2').
   ENDMETHOD.
 
 ENDCLASS.
